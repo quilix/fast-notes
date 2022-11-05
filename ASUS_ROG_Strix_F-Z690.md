@@ -36,7 +36,8 @@ Wireless addapter
 The wireless addapter worked when we tried to use it. We have tried
 it after the backports kernel linux-image-5.19.0-0.deb11.2-amd64 was
 installed so we do not know if the wireless addapter works  with the
-original kernel or if the backports kernel is required.
+original kernel or if the backports kernel is required. The wireless
+antenna provided with the motherboard must be connected.
 
 Audio addapter
 ==============
