@@ -38,3 +38,11 @@ it after the backports kernel linux-image-5.19.0-0.deb11.2-amd64 was
 installed so we do not know if the wireless addapter works  with the
 original kernel or if the backports kernel is required.
 
+Audio addapter
+==============
+
+Works with the following kernels linux-image-5.19.0-0.deb11.2-amd64
+available from the backports
+
+
+
