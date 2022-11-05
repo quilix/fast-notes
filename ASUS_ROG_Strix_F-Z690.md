@@ -42,8 +42,7 @@ antenna provided with the motherboard must be connected.
 Audio addapter
 ==============
 
-Works with the following kernels linux-image-5.19.0-0.deb11.2-amd64
-available from the backports
+Works with the kernel linux-image-5.19.0-0.deb11.2-amd64 available from backports.
 
 
 
