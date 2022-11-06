@@ -46,15 +46,38 @@ The major drawback of OSS was 1 card per system but there were others.
 20:30 Talks about the standardization of Audio Interfaces like AC97 and
 the addition of USB to ALSA
 
+25:39 The concept of sound servers (The sound servers war; before 2004)
 
+   - artsd: KDE
+   - ESD
 
+   Mentions *interesting* aspects about sound servers and about the data
+   stream supported by a sound card.
 
+27:00 PulseAudio
 
+30:17 Embedded (Alsa for System on a Chip - ASoC)
 
+33:33 Modern Hardware
 
+   High Definition Audio (HDA)
 
+   - Introduced in 2004, it is the successor of AC97;
 
-
+   Mobiles
+   
+36:37 Present (2017)
+  
+  - EXCELENT: Starts with an image about the Linux Audio Stack
+  - A slide mentions that all new hardware has on board HDA !
+  - PulseAudio is HDA or USB aware
+  - PulseAudio and Jack are able to comunicate with each other and to negotiate the access to the hardware.
+  - Manetions changes in the embedded world
+    
+41:14 Future
+ 
+  - Because the hardware got cheaper to produce, the hardware is not implementing synthesizers, mixers, etc.
+  - There are new technologies to handle these changes (this type of harware)
 
 
 ## References
