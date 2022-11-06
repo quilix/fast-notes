@@ -15,6 +15,23 @@ The information presented in this video is too low level to be useful for someon
 
 ### Audio on Linux: The End of a Golden Age? [3]
 
+3:48 Starts with the history of sound
+
+4:22 Explains what you can find in the first computers as sound devices.
+
+6:18 Mentions Soundblaster in 1989
+
+  Explains that the possiblities of the first soundcards were different than
+  the posisiblities of the current soundcards.
+
+  - First cards: it was possible to program them to generate some kind of sound effect.
+  - Current soundcards: the current soundcards are able to play a wav stream of data.
+
+In the near future sound boards evoluted becaus the people wanted to play music and to
+heare more sound at at time (so it was necessary to add mixers)
+
+
+
 
 
 ## References
