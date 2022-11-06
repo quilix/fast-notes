@@ -27,6 +27,11 @@ Explains what are Synchronous, Addaptive and Asynchronous USB audio transfer met
 
 ### Cambridge Audio: USB Audio Part 4: Optimising Windows. [6]
 
+Fantastic ! It explains some problems that exist in Windows with the sound. We supose
+the same kind of problems may exist in Linux.
+
+It also explain how to avoid them and why use foobar.
+
 ### Audio on Linux: The End of a Golden Age? [7]
 
 3:48 Starts with the history of sound
