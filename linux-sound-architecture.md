@@ -21,7 +21,13 @@ Explains what USB Audio is.
 
 Explains what is USB Audio class 1 and class 2 and why class 1 is necessary if class 2 is better.
 
-### Audio on Linux: The End of a Golden Age? [5]
+### Cambridge Audio: USB Audio Part 3: What is Asynchronous USB Audio? [5]
+
+Explains what are Synchronous, Addaptive and Asynchronous USB audio transfer methods. EXCELENT !
+
+### Cambridge Audio: USB Audio Part 4: Optimising Windows. [6]
+
+### Audio on Linux: The End of a Golden Age? [7]
 
 3:48 Starts with the history of sound
 
@@ -110,9 +116,11 @@ the addition of USB to ALSA
 
 - [1] Linux Audio Explained (ALSA vs PulseAudio vs JACK vs Pipewire Explained) , https://www.youtube.com/watch?v=HxEXMHcwtlI
 - [2] Fabian Renn-Giles (Independent) - The Linux Audio API: A Different Way To Do Audio, https://www.youtube.com/watch?v=-wDVPreDNjE
-- [3] USB Audio Part 1: What is USB Audio?, https://www.youtube.com/watch?v=PZ9vEisSgw0
-- [4] USB Audio Part 2: Class 1 and Class 2 USB Audio,  https://www.youtube.com/watch?v=xMcsVj6icZI&t=21s
-- [5] Audio on Linux: The End of a Golden Age? https://www.youtube.com/watch?v=6oQF2TzCYtQ
+- [3] Cambridge Audio: USB Audio Part 1: What is USB Audio?, https://www.youtube.com/watch?v=PZ9vEisSgw0
+- [4] Cambridge Audio: USB Audio Part 2: Class 1 and Class 2 USB Audio,  https://www.youtube.com/watch?v=xMcsVj6icZI&t=21s
+- [5] Cambridge Audio: USB Audio Part 3: What is Asynchronous USB Audio? https://www.youtube.com/watch?v=dBLto-DlGJo
+- [6] Cambridge Audio: USB Audio Part 4: Optimising Windows, https://www.youtube.com/watch?v=nLCA11HsSjw
+- [7] Audio on Linux: The End of a Golden Age? https://www.youtube.com/watch?v=6oQF2TzCYtQ
 
 
 
