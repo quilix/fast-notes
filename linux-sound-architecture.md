@@ -13,7 +13,11 @@ explains what ALSA is, and what other software PulseAudio, Jack and Pipepewire a
 
 The information presented in this video is too low level to be useful for someone who wants to configure the audio on linux.
 
-### Audio on Linux: The End of a Golden Age? [3]
+###  USB Audio Part 1: What is USB Audio? [3]
+
+Explains what USB Audio is.
+
+### Audio on Linux: The End of a Golden Age? [4]
 
 3:48 Starts with the history of sound
 
@@ -102,7 +106,8 @@ the addition of USB to ALSA
 
 - [1] Linux Audio Explained (ALSA vs PulseAudio vs JACK vs Pipewire Explained) , https://www.youtube.com/watch?v=HxEXMHcwtlI
 - [2] Fabian Renn-Giles (Independent) - The Linux Audio API: A Different Way To Do Audio, https://www.youtube.com/watch?v=-wDVPreDNjE
-- [3] Audio on Linux: The End of a Golden Age? https://www.youtube.com/watch?v=6oQF2TzCYtQ
+- [3] USB Audio Part 1: What is USB Audio?, https://www.youtube.com/watch?v=PZ9vEisSgw0
+- [4] Audio on Linux: The End of a Golden Age? https://www.youtube.com/watch?v=6oQF2TzCYtQ
 
 
 
