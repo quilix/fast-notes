@@ -1,9 +1,18 @@
 Linux Sound Architecture
 ========================
 
+[1] Excelent explanations about the motications of running an audio server like PulseAudio or Jack.
 
+[2] Information about the low level communication between ALSA and programs. There are some interesting
+    questions at the end of the video (starting at 1:02:45)
+    
+    The information presented is too low level to be useful for a person that wants to configure the
+    sound on linux.
 
 References
 -----------
 
-https://www.youtube.com/watch?v=HxEXMHcwtlI
+[1] Linux Audio Explained (ALSA vs PulseAudio vs JACK vs Pipewire Explained) , https://www.youtube.com/watch?v=HxEXMHcwtlI
+[2] Fabian Renn-Giles (Independent) - The Linux Audio API: A Different Way To Do Audio, https://www.youtube.com/watch?v=-wDVPreDNjE
+
+
