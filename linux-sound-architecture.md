@@ -77,9 +77,26 @@ the addition of USB to ALSA
 41:14 Future
  
   - Because the hardware got cheaper to produce, the hardware is not implementing synthesizers, mixers, etc.
-  - There are new technologies to handle these changes (this type of harware)
+  - There are new technologies to handle these changes (this type of harware): 
+    - Usecase Manager (UCM): Because of the multitude of features available, these
+      features cannot be described in the hardware and next used by sound server.
+      The technology allows tto describe these features in profies to be used by
+      a sound server ! INTERSTING  !
+      
+      Usecase Manager is part of ALSA and Pulseaudio has its own Usecase Manager and other
+      soundservers have their own Usecase Manager.
+      
+    - Topology (@ 44:00)
+
+45:25 Time for a major Overhaul?
 
 
+
+      
+      
+      
+
+     
 ## References
 
 
