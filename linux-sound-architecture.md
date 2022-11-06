@@ -40,6 +40,10 @@ Simply explains what jitter is.
 
 Explains why you need a DAC. Jitter and filering are also explained.
 
+### How USB-C headphones work?
+
+Interesting information about USB Audio.
+
 ### Audio on Linux: The End of a Golden Age? [10]
 
 3:48 Starts with the history of sound
@@ -135,6 +139,7 @@ the addition of USB to ALSA
 - [6] Cambridge Audio: USB Audio Part 4: Optimising Windows, https://www.youtube.com/watch?v=nLCA11HsSjw
 - [7] Cambridge Audio: What is Jitter? https://www.youtube.com/watch?v=pQ7ID-OmgsY
 - [8] Cambridge Audio: The Need for a DAC, https://www.youtube.com/watch?v=KXQPWtBtQFE
+- [9] How USB-C headphones work?, https://www.soundguys.com/usb-audio-explained-18563/
 - [10] Audio on Linux: The End of a Golden Age? https://www.youtube.com/watch?v=6oQF2TzCYtQ
 
 
