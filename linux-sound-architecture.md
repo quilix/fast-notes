@@ -32,7 +32,11 @@ the same kind of problems may exist in Linux.
 
 It also explain how to avoid them and why use foobar.
 
-### Audio on Linux: The End of a Golden Age? [7]
+### Cambridge Audio: What is Jitter? [7]
+
+Simply explains what jitter is.
+
+### Audio on Linux: The End of a Golden Age? [10]
 
 3:48 Starts with the history of sound
 
@@ -125,7 +129,8 @@ the addition of USB to ALSA
 - [4] Cambridge Audio: USB Audio Part 2: Class 1 and Class 2 USB Audio,  https://www.youtube.com/watch?v=xMcsVj6icZI&t=21s
 - [5] Cambridge Audio: USB Audio Part 3: What is Asynchronous USB Audio? https://www.youtube.com/watch?v=dBLto-DlGJo
 - [6] Cambridge Audio: USB Audio Part 4: Optimising Windows, https://www.youtube.com/watch?v=nLCA11HsSjw
-- [7] Audio on Linux: The End of a Golden Age? https://www.youtube.com/watch?v=6oQF2TzCYtQ
+- [7] Cambridge Audio: What is Jitter? https://www.youtube.com/watch?v=pQ7ID-OmgsY
+- [10] Audio on Linux: The End of a Golden Age? https://www.youtube.com/watch?v=6oQF2TzCYtQ
 
 
 
