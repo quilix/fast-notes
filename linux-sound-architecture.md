@@ -147,7 +147,8 @@ See especially section 5 which provides debugging information.
 - [9] How USB-C headphones work?, https://www.soundguys.com/usb-audio-explained-18563/
 - [10] Audio on Linux: The End of a Golden Age? https://www.youtube.com/watch?v=6oQF2TzCYtQ
 - [11] ALSA overview, https://wiki.st.com/stm32mpu/wiki/ALSA_overview
-- 
+- [12] *Dave Phillips*, A User's Guide to ALSA, https://dl.acm.org/doi/fullHtml/10.5555/1080072.1080075
+- [13] A close look at ALSA, https://www.volkerschatz.com/noise/alsa.html
 
 
 
