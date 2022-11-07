@@ -149,6 +149,7 @@ EXCELENT !!!
 - [12] *Dave Phillips*, A User's Guide to ALSA, https://dl.acm.org/doi/fullHtml/10.5555/1080072.1080075
 - [13] A close look at ALSA, https://www.volkerschatz.com/noise/alsa.html
 - [14] Linux ALSA sound notes, http://www.sabi.co.uk/Notes/linuxSoundALSA.html
+- [15] *Jaroslav Kysela*, Advanced Linux Sound Architecture (ALSA) The future for the Linux sound!? https://hal.archives-ouvertes.fr/hal-03116888/document
 
 
 
