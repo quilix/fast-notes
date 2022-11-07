@@ -125,10 +125,9 @@ the addition of USB to ALSA
 
 See especially section 5 which provides debugging information.
 
+### A close look at ALSA [13]
 
-
-
-      
+EXCELENT !!!
       
       
 
