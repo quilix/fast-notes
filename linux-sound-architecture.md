@@ -128,7 +128,10 @@ See especially section 5 which provides debugging information.
 ### A close look at ALSA [13]
 
 EXCELENT !!!
-      
+
+### Device, From the ALSA wiki [16]
+
+Explains what ALSA devices are, why they are not provided under /dev/ as the usual devices provided by the kernel and how they are named.
       
 
      
@@ -150,6 +153,6 @@ EXCELENT !!!
 - [13] A close look at ALSA, https://www.volkerschatz.com/noise/alsa.html
 - [14] Linux ALSA sound notes, http://www.sabi.co.uk/Notes/linuxSoundALSA.html
 - [15] *Jaroslav Kysela*, Advanced Linux Sound Architecture (ALSA) The future for the Linux sound!? https://hal.archives-ouvertes.fr/hal-03116888/document
-
+- [16] Device, From the ALSA wiki - https://alsa.opensrc.org/Device
 
 
