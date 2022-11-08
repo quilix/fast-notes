@@ -32,18 +32,20 @@ With sound cards the things are much more complicated. Here are some diferences:
 
 Due to all these features, the access to soundcards through a single special file is not
 enough. As you can see in [3, sec 7.2] more special files canb be provided for a single
-soundcard: "Each of these features have their own device driver interface. For digital
+soundcard: (as of 1995) "Each of these features have their own device driver interface. For digital
 samples it is /dev/dsp, for the frequency modulation it is /dev/sequencer and for the
 midi interface it is /dev/midi. The sound settings (like volume, balance or bass) can
 be controlled via the /dev/mixer interface. For compatibility reasons a /dev/audio
 device exists which can read SUN data."
 
+As you can see, there are many thing to know about soundcards: you must know what the device files
+are. Why you need many device files for a sound card. You must know the capabilities of your sound
+card (does it support MIDI? dors it support a mixer?, etc). And you must know  stuff about digital
+sound.
 
-
-
-
-
-
+So be prepared with patiens. There is along way you habe to walk in order to understand how sound
+is processed. In 2022 there we have ALSA that takes the responsability of providing special device
+files to the user.
 
 
 # Playing with sounds
