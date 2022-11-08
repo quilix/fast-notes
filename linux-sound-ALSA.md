@@ -31,5 +31,6 @@
    
 # References
 
-[1] https://wiki.ubuntu-it.org/Hardware/Audio/HdaIntel
-[2] https://tldp.org/HOWTO/Sound-HOWTO/x504.html
+- [1] https://wiki.ubuntu-it.org/Hardware/Audio/HdaIntel
+- [2] https://tldp.org/HOWTO/Sound-HOWTO/x504.html
+- [3] https://tldp.org/LDP/lpg/lpg.html
