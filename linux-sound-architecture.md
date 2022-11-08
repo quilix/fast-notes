@@ -154,5 +154,7 @@ Explains what ALSA devices are, why they are not provided under /dev/ as the usu
 - [14] Linux ALSA sound notes, http://www.sabi.co.uk/Notes/linuxSoundALSA.html
 - [15] *Jaroslav Kysela*, Advanced Linux Sound Architecture (ALSA) The future for the Linux sound!? https://hal.archives-ouvertes.fr/hal-03116888/document
 - [16] Device, From the ALSA wiki - https://alsa.opensrc.org/Device
+- [17] Audio multi-channel routing and mixing using alsalib, https://bootlin.com/blog/audio-multi-channel-routing-and-mixing-using-alsalib/
+
 
 
