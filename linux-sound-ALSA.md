@@ -24,6 +24,9 @@
   
   Using a dedicated program provides better results because it is possible to set the sampling rate.
 
+# Open questions
+
+1. How can I use a sound card to replace the system consol beep? And vice versa.
 
    
 # References
