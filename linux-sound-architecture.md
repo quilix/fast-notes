@@ -133,10 +133,12 @@ EXCELENT !!!
 
 Explains what ALSA devices are, why they are not provided under /dev/ as the usual devices provided by the kernel and how they are named.
       
+### Programming Digitized Sound On the Sound Blaster [18]
 
-     
+Not read yet but it seems a very good introduction in how the soundcards work and how the digital sound is manipulated.
+
+
 ## References
-
 
 - [1] Linux Audio Explained (ALSA vs PulseAudio vs JACK vs Pipewire Explained) , https://www.youtube.com/watch?v=HxEXMHcwtlI
 - [2] Fabian Renn-Giles (Independent) - The Linux Audio API: A Different Way To Do Audio, https://www.youtube.com/watch?v=-wDVPreDNjE
@@ -155,6 +157,7 @@ Explains what ALSA devices are, why they are not provided under /dev/ as the usu
 - [15] *Jaroslav Kysela*, Advanced Linux Sound Architecture (ALSA) The future for the Linux sound!? https://hal.archives-ouvertes.fr/hal-03116888/document
 - [16] Device, From the ALSA wiki - https://alsa.opensrc.org/Device
 - [17] Audio multi-channel routing and mixing using alsalib, https://bootlin.com/blog/audio-multi-channel-routing-and-mixing-using-alsalib/
+- [18] Erik Lorenzen, Programming Digitized Sound On the Sound Blaster, June 01, 1997, https://www.gamedeveloper.com/disciplines/programming-digitized-sound-on-the-sound-blaster
 
 
 
